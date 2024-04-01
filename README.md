@@ -139,7 +139,7 @@ Jump to second line, position 2
 
 10. Once the project is bulild.
 
-11. Click on debug option 
+11. Click on debug option.
 
 12. Creating Proteus project and running the simulation.
 We are now at the last part of step by step guide on how to simulate STM32 project in Proteus.
